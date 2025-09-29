@@ -2,6 +2,9 @@
 
 ## Project Description
 
+### Status: Week 5: Milestone 1 - HTML and CSS Template (Submission)
+
+
 This project is a web application designed for Milestone 1 of the MO-IT120 - Web Systems and Technology course. Its primary goal is to help Filipino students compare the monthly expenses of a traditional, on-campus learning setup versus an online learning setup, like the one at MMDC. The application provides a simple calculator where students can input their income and typical expenses for both scenarios to see a direct comparison of their remaining balance.
 
 This tool aims to help students make more informed financial decisions about their education path.
