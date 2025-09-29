@@ -45,7 +45,7 @@ No external frameworks like Bootstrap or JavaScript were used for this milestone
 
 You can view the live version of our project deployed on GitLab Pages here:
 
-live: https://wisemmdc-8237e9.gitlab.io
+live: [https://wisemmdc-8237e9.gitlab.io](https://j0eychnpulpey.github.io/wiseMMDC/index.html)
 
 
 
