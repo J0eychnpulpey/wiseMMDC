@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wise MMDC - Expense Comparison Calculator</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+  <header class="header">
+    <a href="index.html" class="header__logo">Wise MMDC</a>
+    <nav class="nav">
+      <ul class="nav__list">
+        <li class="nav__item"><a href="calculator.html" class="nav__link nav__link--active">Calculator</a></li>
+        <li class="nav__item"><a href="index.html" class="nav__link">Blog</a></li>
+        <li class="nav__item"><a href="#" class="nav__link">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="calculator-container">
+
+    <section class="form-section income">
+      <h2 class="form-section__title">Your Monthly Income</h2>
+      <div class="income__fields">
+        <div class="form-section__group">
+          <label for="allowance" class="form-section__label">Allowance</label>
+          <input type="number" id="allowance" class="form-section__input" placeholder="0.00">
+        </div>
+        <div class="form-section__group">
+          <label for="parttime" class="form-section__label">Part-time Job</label>
+          <input type="number" id="parttime" class="form-section__input" placeholder="0.00">
+        </div>
+      </div>
+      <p class="form-section__total">Total Monthly Income: ₱0.00</p>
+    </section>
+
+    <div class="expenses-grid">
+      <section class="form-section expenses expenses--traditional">
+        <h2 class="form-section__title">Traditional Student Expenses</h2>
+        <div class="form-section__group">
+          <label for="transport" class="form-section__label">Transportation (Daily)</label>
+          <input type="number" id="transport" class="form-section__input" placeholder="0">
+        </div>
+        <div class="form-section__group">
+            <label for="meals" class="form-section__label">Daily Meals (Baon)</label>
+            <input type="number" id="meals" class="form-section__input" placeholder="0">
+        </div>
+        <div class="form-section__group">
+            <label for="supplies" class="form-section__label">School Supplies</label>
+            <input type="number" id="supplies" class="form-section__input" placeholder="0">
+        </div>
+         <div class="form-section__group">
+            <label for="social" class="form-section__label">Hangouts/Social</label>
+            <input type="number" id="social" class="form-section__input" placeholder="0">
+        </div>
+        <p class="form-section__total">Total Monthly Expenses: ₱0.00</p>
+      </section>
+
+      <section class="form-section expenses expenses--online">
+        <h2 class="form-section__title">MMDC Online Student Expenses</h2>
+        <div class="form-section__group">
+          <label for="internet" class="form-section__label">Internet Plan</label>
+          <input type="number" id="internet" class="form-section__input" placeholder="0">
+        </div>
+        <div class="form-section__group">
+            <label for="electricity" class="form-section__label">Electricity (Share)</label>
+            <input type="number" id="electricity" class="form-section__input" placeholder="0">
+        </div>
+         <div class="form-section__group">
+            <label for="cafe" class="form-section__label">Occasional Café</label>
+            <input type="number" id="cafe" class="form-section__input" placeholder="0">
+        </div>
+        <div class="form-section__group">
+            <label for="tools" class="form-section__label">Digital Tools/Software</label>
+            <input type="number" id="tools" class="form-section__input" placeholder="0">
+        </div>
+        <p class="form-section__total">Total Monthly Expenses: ₱0.00</p>
+      </section>
+    </div>
+
+    <section class="summary">
+      <h2 class="summary__title">Monthly Comparison Summary</h2>
+      <div class="summary__grid">
+        <div class="summary-card">
+          <h3 class="summary-card__title">Traditional Student</h3>
+          <p class="summary-card__item">Income: <span class="summary-card__value">₱0.00</span></p>
+          <p class="summary-card__item">Expenses: <span class="summary-card__value summary-card__value--negative">₱0.00</span></p>
+          <p class="summary-card__item summary-card__item--balance">Remaining Balance: <span class="summary-card__value">₱0.00</span></p>
+        </div>
+        <div class="summary-card">
+          <h3 class="summary-card__title">MMDC Online Student</h3>
+          <p class="summary-card__item">Income: <span class="summary-card__value">₱0.00</span></p>
+          <p class="summary-card__item">Expenses: <span class="summary-card__value summary-card__value--negative">₱0.00</span></p>
+          <p class="summary-card__item summary-card__item--balance">Remaining Balance: <span class="summary-card__value">₱0.00</span></p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p class="footer__text">© 2025 Wise MMDC. Helping Filipino students make informed financial decisions.</p>
+  </footer>
+
+</body>
+</html>
