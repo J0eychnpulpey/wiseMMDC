@@ -190,7 +190,7 @@ Compliant with **RA 10173 (Data Privacy Act of 2012)**.
 
 You can view the live version of our project deployed on GitHub Pages here:
 
-[Live Demo](#) <!-- Add your GitHub Pages URL here -->
+[Live](https://j0eychnpulpey.github.io/wiseMMDC/index.html)
 
 ---
 
