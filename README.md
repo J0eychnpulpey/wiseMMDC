@@ -10,6 +10,8 @@ The application provides an **interactive calculator** where students can input 
 
 This tool aims to help students make more informed financial decisions about their education path.
 
+https://j0eychnpulpey.github.io/wiseMMDC/index.html
+
 ---
 
 ## Team Members - Group 13
