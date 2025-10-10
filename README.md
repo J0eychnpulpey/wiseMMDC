@@ -7,10 +7,3 @@
 
 
 
-## License
-
-This project is created for educational purposes as part of the MO-IT120 course at MMDC.
-
----
-
-**© 2025 Wise MMDC - Group 13. Helping Filipino students make informed financial decisions.**
