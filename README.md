@@ -23,13 +23,15 @@ This tool aims to help students make more informed financial decisions about the
 
 ## Features
 
-### 🏠 Homepage
+###  Homepage
 - Modern landing page with hero section featuring the project image
 - Introduces the expense comparison tool with call-to-action buttons
 - Blog section with three article cards showcasing student finance topics
+  - **Note:** Article cards display titles and descriptions only (no full articles)
+  - Created for demonstration purposes as part of the course requirements
 - Fully responsive design using Bootstrap grid system
 
-### 📊 Interactive Expense Calculator
+###  Interactive Expense Calculator
 An interactive page where users can:
 - **Select Study Mode**: Choose between Traditional Student or Online Student to load specific sample data
 - **Input Monthly Income**: Enter allowance and part-time job earnings
@@ -39,13 +41,13 @@ An interactive page where users can:
 - **Real-time Calculations**: Instant updates of totals as you type
 - **Load Sample Data**: Quick-fill button to see example comparisons
 
-### 📈 Comparison Summary
+###  Comparison Summary
 - Side-by-side cards showing Traditional vs. Online student breakdown
 - Clear display of income, expenses, and remaining balance
 - Color-coded values for easy reading
 - Responsive layout that stacks on mobile devices
 
-### ℹ️ About Page
+###  About Page
 - Project information and objectives
 - Meet the Team section with team member cards
 - Technologies used
@@ -190,7 +192,15 @@ Compliant with **RA 10173 (Data Privacy Act of 2012)**.
 
 You can view the live version of our project deployed on GitHub Pages here:
 
-[Live](https://j0eychnpulpey.github.io/wiseMMDC/) <!-- Add your GitHub Pages URL here -->
+[Live](https://j0eychnpulpey.github.io/wiseMMDC/index.html)
+
+---
+
+## Important Notes
+
+📝 **Blog Articles:** The blog section on the homepage displays article cards with titles and descriptions only. Full article content was not created as it was not required for this project milestone. The cards serve as placeholder examples to demonstrate the layout and design capabilities.
+
+🎓 **Educational Purpose:** This is a student project created for academic purposes as part of the MO-IT120 - Web Systems and Technology course at MMDC.
 
 ---
 
