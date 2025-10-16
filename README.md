@@ -166,6 +166,8 @@ The website is fully responsive and optimized for:
 - Implemented custom CSS styling with BEM methodology
 - Added responsive design for mobile, tablet, and desktop
 - Deployed to GitHub Pages
+- https://wisemmdc-8237e9.gitlab.io/calculator.html
+  
 
 ### ✅ Milestone 2 - Interactive Website (Current)
 - Integrated Bootstrap 5.3.2 framework
